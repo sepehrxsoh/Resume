@@ -9,24 +9,24 @@
 >
 > * [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
 
- ### Summary  <br>
+### Summary  <br>
 > I’m an Applied Mathematics Student at Iran University Science and Technology , 
 > interested in Programming, I’m hard work, high ability to learning fast, good at searching , good at team work.
 
 
- ### Education <br>
+### Education <br>
 > Education | Date
 > ----------------- | -----------
 >  Iran University Science and Technology <br><b> Bachelor of Applied Mathematics|Tehran, Tehran Province <br> Enrolled September 2018
 > Soltani 1 Talented School<br> <b>High School Diploma | Karaj, Alborz Province <br>Graduate May 2018
 
- ### Languages
+### Languages
  > * Persian `Native` <br>
  > * English `Advanced` <br>
  > * French `Beginner` <br>
  > * German `Beginner` <br>
 
- ### Programming Languages
+### Programming Languages
  > * Golang `Advanced` <br>
  > * Python `Advanced` <br>
  > * C++ `Advanced` <br>
@@ -35,7 +35,7 @@
  > * HTML `Intermediate` <br>
  > * CSS `Intermediate` <br>
 
- ### Professional Skills
+### Professional Skills
  > * Postgres `Advanced` <br>
  > * ClickHouse `Advanced` <br>
  > * Git `Advanced` <br>
@@ -43,7 +43,7 @@
  > * Redis `Intermediate` <br>
  > * Domain-Driven Design (DDD) `Intermediate` <br>
 
- ### Industry Knowledge
+### Industry Knowledge
 > * Data Structures
 > * Data Design
 > * Data Analysis
