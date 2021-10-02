@@ -23,9 +23,10 @@
 > Soltani 1 Talented School<br> <b>High School Diploma </b>| Karaj, Alborz Province <br>Graduate May 2018
 
 ## Employment History
-> ### Carriot
+> ### Carriot (Car IOT Company)
 > > Software engineer `Enrolled Jan 2020`
-> ### Omid analyzer (Fintech company)
+> 
+> ### Omid analyzer (Fintech Company)
 > > Account Manager `Apr 2020- Sept 2020`
 
 ## Languages
