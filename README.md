@@ -13,7 +13,7 @@
 ### Summary
 
 > I’m an Applied Mathematics Student at Iran University Science and Technology ,
-> interested in Programming, I’m hard work, high ability to learning fast, good at searching , good at team work.
+> interested in Software engineering, I’m hard work, high ability to learning fast, good at searching , good at team work.
 
 ### Education
 
