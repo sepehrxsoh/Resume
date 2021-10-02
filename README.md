@@ -8,12 +8,12 @@
 >
 > * Email: Sepehr.Sohrabpour@yahoo.com
 >
-> * [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
+> * [LinkedIn](https://linkedin.com/in/sepehr-sohrabpour-307687163)
 
 ### Summary
 
 > I’m an Applied Mathematics Student at Iran University Science and Technology ,
-> interested in software engineering, I’m hard work, high ability to learning fast, good at searching , good at team work.
+> interested in Programming, I’m hard work, high ability to learning fast, good at searching , good at team work.
 
 ### Education
 
