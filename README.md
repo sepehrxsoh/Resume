@@ -1,13 +1,13 @@
 # Sepehr Sohrabpour
 
 ### contact info
->#### Tehran - Tehran 1469614887
+> * Tehran - Tehran 1469614887
 >
->#### Phone : +989351132098
+> * Phone : +989351132098
 >
->#### [Email](Sepehr.Sohrabpour@yahoo.com)
+> * [Email](Sepehr.Sohrabpour@yahoo.com)
 >
->#### [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
+> * [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
 
  ### Summary  <br>
 > I’m an Applied Mathematics Student at Iran University Science and Technology , 
