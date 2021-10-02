@@ -1,12 +1,13 @@
 # Sepehr Sohrabpour
 
-#### Tehran - Tehran 3155784545
-
-#### Phone : +989351132098
-
-#### [Email](Sepehr.Sohrabpour@yahoo.com)
-
-#### [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
+### contact info
+>#### Tehran - Tehran 3155784545
+>
+>#### Phone : +989351132098
+>
+>#### [Email](Sepehr.Sohrabpour@yahoo.com)
+>
+>#### [LinkedIn](linkedin.com/in/sepehr-sohrabpour-307687163 kaggle.com/sepehrsohrabpour)
 
  ### Summary  <br>
 > I’m an Applied Mathematics Student at Iran University Science and Technology , 
