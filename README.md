@@ -27,7 +27,7 @@
 > > Software engineer `Enrolled Jan 2020`
 > 
 > ### Omid analyzer (Fintech Company)
-> > Account Manager `Apr 2020- Sept 2020`
+> > Account Manager `Apr 2020- Sep 2020`
 
 ## Languages
 
