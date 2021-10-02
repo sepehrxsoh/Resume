@@ -22,6 +22,12 @@
 > Iran University Science and Technology <br> <b> Bachelor of Applied Mathematics </b>|Tehran, Tehran Province <br> Enrolled September 2018
 > Soltani 1 Talented School<br> <b>High School Diploma </b>| Karaj, Alborz Province <br>Graduate May 2018
 
+## Employment History
+> ### Carriot
+> > Software engineer `Enrolled Jan 2020`
+> ### Omid analyzer (Fintech company)
+> > Account Manager `Apr 2020- Sept 2020`
+
 ## Languages
 
 > * Persian `Native` <br>
@@ -47,6 +53,7 @@
 > * Docker `Intermediate` <br>
 > * Redis `Intermediate` <br>
 > * Domain-Driven Design (DDD) `Intermediate` <br>
+> * Bootstrap 4 `Intermediate` 
 
 ## Industry Knowledge
 
