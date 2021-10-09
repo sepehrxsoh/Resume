@@ -59,7 +59,7 @@
 ## Industry Knowledge
 
 > * Data Structures
-> * Data Design
+> * Data Algorithms
 > * Data Analysis
 > * Numerical Analysis
 > * Deep Learning
